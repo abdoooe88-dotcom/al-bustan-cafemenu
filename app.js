@@ -11,8 +11,10 @@ const fallback = {
       {name:"Latte",desc:"إسبريسو مع لبن",price:"75 EGP"}
     ]},
     {name:"Cold Drinks",items:[
-      {name:"Iced Coffee",desc:"قهوة مثلجة",price:"80 EGP"},
-      {name:"Mojito",desc:"مشروب منعش",price:"70 EGP"}
+      {name:"Mango",desc:"مانجا",price:"50 EGP"},
+      {name:"guava",desc:"جوافه",price:"50 EGP"},
+      {name:"Banana with milk",desc:"موز باللبن",price:"50 EGP"},  
+      {name:"Lemon",desc:"ليمون",price:"40 EGP"}
     ]}
   ]
 };
