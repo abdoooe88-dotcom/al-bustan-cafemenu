@@ -5,6 +5,7 @@ const fallback = {
     {name:"Hot drinks - مشروبات ساخنة",items:[
       
       {name:"Tea",desc:"شاي",price:"15 EGP"},
+      {name:"Coffee",desc:"قهوة",price:"25 EGP"},
       {name:"Espresso",desc:"قهوة إسبريسو",price:"50 EGP"},
       {name:"Cappuccino",desc:"إسبريسو مع لبن ورغوة",price:"70 EGP"},
       {name:"Latte",desc:"إسبريسو مع لبن",price:"75 EGP"}
