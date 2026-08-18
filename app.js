@@ -2,7 +2,8 @@ const fallback = {
   cafeName:"كافيه البستان",
   tagline:"أهلاً بيكم",
   categories:[
-    {name:"Hot drinks",items:[
+    {name:"Hot drinks - مشروبات ساخنة",items:[
+      
       {name:"Tea",desc:"شاي",price:"15 EGP"},
       {name:"Espresso",desc:"قهوة إسبريسو",price:"50 EGP"},
       {name:"Cappuccino",desc:"إسبريسو مع لبن ورغوة",price:"70 EGP"},
