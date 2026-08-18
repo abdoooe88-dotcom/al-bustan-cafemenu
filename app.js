@@ -1,5 +1,5 @@
 const fallback = {
-  cafeName:"اسم الكافيه",
+  cafeName:"كافيه البستان",
   tagline:"أهلاً بيكم",
   categories:[
     {name:"Coffee",items:[
