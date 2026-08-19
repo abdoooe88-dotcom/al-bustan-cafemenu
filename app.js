@@ -4,6 +4,10 @@ const fallback = {
   categories:[
 {name:"مشروبات ساخنة - Hot drinks",items:[
   {name:"شاي",desc:"Tea",price:"؟ EGP"},
+  {name:"كركديه",desc:"Hibiscus",price:"؟ EGP"},
+  {name:"ليمون",desc:"Lemon",price:"؟ EGP"},
+  {name:"ينسون",desc:"Anise",price:"؟ EGP"},
+  {name:"حلبة",desc:"Fenugreek",price:"؟ EGP"},
   {name:"قهوة",desc:"Coffee",price:"؟ EGP"},
   {name:"قهوة إسبريسو",desc:"Espresso",price:"؟ EGP"},
   {name:"كابتشينو",desc:"Cappuccino",price:"؟ EGP"},
