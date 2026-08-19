@@ -4,17 +4,17 @@ const fallback = {
   categories:[
     {name:"Hot drinks - مشروبات ساخنة",items:[
       
-      {name:"Tea",desc:"شاي",price:"15 EGP"},
-      {name:"Coffee",desc:"قهوة",price:"25 EGP"},
-      {name:"Espresso",desc:"قهوة إسبريسو",price:"50 EGP"},
-      {name:"Cappuccino",desc:"إسبريسو مع لبن ورغوة",price:"70 EGP"},
-      {name:"Latte",desc:"إسبريسو مع لبن",price:"75 EGP"}
+      {name:"Tea",desc:"شاي",price:"؟ EGP"},
+      {name:"Coffee",desc:"قهوة",price:"؟ EGP"},
+      {name:"Espresso",desc:"قهوة إسبريسو",price:"؟ EGP"},
+      {name:"Cappuccino",desc:"إسبريسو مع لبن ورغوة",price:"؟ EGP"},
+      {name:"Latte",desc:"إسبريسو مع لبن",price:"؟ EGP"}
     ]},
     {name:"Frish drinks - مشروبات فريش",items:[
-      {name:"Mango",desc:"مانجا",price:"50 EGP"},
-      {name:"guava",desc:"جوافه",price:"50 EGP"},
-      {name:"Banana with milk",desc:"موز باللبن",price:"50 EGP"},  
-      {name:"Lemon",desc:"ليمون",price:"40 EGP"}
+      {name:"Mango",desc:"مانجا",price:"؟ EGP"},
+      {name:"guava",desc:"جوافه",price:"؟ EGP"},
+      {name:"Banana with milk",desc:"موز باللبن",price:"؟ EGP"},  
+      {name:"Lemon",desc:"ليمون",price:"؟ EGP"}
       ]},
     {name:"Shisha - شيشة",items:[
       {name:"شيشة معسل",price:"؟ EGP"},
