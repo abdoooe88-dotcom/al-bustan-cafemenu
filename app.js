@@ -1,8 +1,8 @@
 const fallback = {
   cafeName:"كافيه البستان",
-  tagline:"أهلاً بيكم",
+  tagline:"👋🏻أهلاً بيكم",
   categories:[
-{name:"مشروبات ساخنة - Hot drinks",items:[
+{name:"مشروبات ساخنة - Hot Drinks",items:[
   {name:"شاي",desc:"Tea",price:"؟ EGP"},
   {name:"كركديه",desc:"Hibiscus",price:"؟ EGP"},
   {name:"ليمون",desc:"Lemon",price:"؟ EGP"},
@@ -13,16 +13,18 @@ const fallback = {
   {name:"كابتشينو",desc:"Cappuccino",price:"؟ EGP"},
   {name:"لاتيه",desc:"Latte",price:"؟ EGP"}
 ]},
-{name:"مشروبات فريش - Fresh drinks",items:[
+
+{name:"مشروبات فريش - Fresh Drinks",items:[
   {name:"مانجا",desc:"Mango",price:"؟ EGP"},
   {name:"جوافة",desc:"Guava",price:"؟ EGP"},
   {name:"موز باللبن",desc:"Banana with milk",price:"؟ EGP"},
   {name:"ليمون",desc:"Lemon",price:"؟ EGP"}
 ]},
-    {name:"Shisha - شيشة",items:[
-      {name:"شيشة معسل",price:"؟ EGP"},
-      {name:"شيشة فواكه فاخر",price:"؟ EGP"},
-    ]}
+
+{name:"شيشة - Shisha",items:[
+  {name:"شيشة معسل",desc:"Traditional Shisha",price:"؟ EGP"},
+  {name:"شيشة فواكه فاخر",desc:"Premium Fruit Shisha",price:"؟ EGP"}
+]}
   ]
 };
 
