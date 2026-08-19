@@ -2,20 +2,19 @@ const fallback = {
   cafeName:"كافيه البستان",
   tagline:"أهلاً بيكم",
   categories:[
-    {name:"Hot drinks - مشروبات ساخنة",items:[
-      
-      {name:"Tea",desc:"شاي",price:"؟ EGP"},
-      {name:"Coffee",desc:"قهوة",price:"؟ EGP"},
-      {name:"Espresso",desc:"قهوة إسبريسو",price:"؟ EGP"},
-      {name:"Cappuccino",desc:"إسبريسو مع لبن ورغوة",price:"؟ EGP"},
-      {name:"Latte",desc:"إسبريسو مع لبن",price:"؟ EGP"}
-    ]},
-    {name:"Frish drinks - مشروبات فريش",items:[
-      {name:"Mango",desc:"مانجا",price:"؟ EGP"},
-      {name:"guava",desc:"جوافه",price:"؟ EGP"},
-      {name:"Banana with milk",desc:"موز باللبن",price:"؟ EGP"},  
-      {name:"Lemon",desc:"ليمون",price:"؟ EGP"}
-      ]},
+{name:"مشروبات ساخنة - Hot drinks",items:[
+  {name:"شاي",desc:"Tea",price:"؟ EGP"},
+  {name:"قهوة",desc:"Coffee",price:"؟ EGP"},
+  {name:"قهوة إسبريسو",desc:"Espresso",price:"؟ EGP"},
+  {name:"كابتشينو",desc:"Cappuccino",price:"؟ EGP"},
+  {name:"لاتيه",desc:"Latte",price:"؟ EGP"}
+]},
+{name:"مشروبات فريش - Fresh drinks",items:[
+  {name:"مانجا",desc:"Mango",price:"؟ EGP"},
+  {name:"جوافة",desc:"Guava",price:"؟ EGP"},
+  {name:"موز باللبن",desc:"Banana with milk",price:"؟ EGP"},
+  {name:"ليمون",desc:"Lemon",price:"؟ EGP"}
+]},
     {name:"Shisha - شيشة",items:[
       {name:"شيشة معسل",price:"؟ EGP"},
       {name:"شيشة فواكه فاخر",price:"؟ EGP"},
