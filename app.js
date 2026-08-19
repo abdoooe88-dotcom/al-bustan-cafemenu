@@ -15,6 +15,10 @@ const fallback = {
       {name:"guava",desc:"جوافه",price:"50 EGP"},
       {name:"Banana with milk",desc:"موز باللبن",price:"50 EGP"},  
       {name:"Lemon",desc:"ليمون",price:"40 EGP"}
+      ]},
+    {name:"Shisha - شيشة",items:[
+      {name:"شيشة معسل",price:"؟ EGP"},
+      {name:"شيشة فواكه فاخر",price:"؟ EGP"},
     ]}
   ]
 };
