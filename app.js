@@ -21,6 +21,13 @@ const fallback = {
   {name:"ليمون",desc:"Lemon",price:"؟ EGP"}
 ]},
 
+{name:"مشروبات غازية - Soft Drinks",items:[
+  {name:"كوكاكولا",desc:"Coca-Cola",price:"؟ EGP"},
+  {name:"بيبسي",desc:"Pepsi",price:"؟ EGP"},
+  {name:"سبرايت",desc:"Sprite",price:"؟ EGP"},
+  {name:"فانتا",desc:"Fanta",price:"؟ EGP"},
+  {name:"ستينج",desc:"Sting Energy",price:"؟ EGP"}
+]},
 {name:"شيشة - Shisha",items:[
   {name:"شيشة معسل",desc:"Traditional Shisha",price:"؟ EGP"},
   {name:"شيشة فواكه فاخر",desc:"Premium Fruit Shisha",price:"؟ EGP"}
